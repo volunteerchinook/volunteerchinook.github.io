@@ -25,7 +25,7 @@ body {
 
 h3 { /* This is the size for the explanation of headers */
   font-size: 36px;
-  font-family: montserrat;
+  font-family: "montserrat";
   text-align: center;
   color: #000000;
 }
@@ -36,7 +36,7 @@ h3 { /* This is the size for the explanation of headers */
   padding-right: 40px;
   font-size: 24px;
   color: #fa8072;
-  font-family: montserrat;
+  font-family: "montserrat";
   float: left;
 
 }
@@ -103,7 +103,7 @@ textarea {
 	height: 200px;
   /*border: 3px solid #000000;
 	padding: 5px; */
-	font-family: Tahoma, sans-serif;
+	font-family: "Montserrat";
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -112,7 +112,7 @@ textarea {
 .select {
   width: 1000px;
 	height: 75px;
-	font-family: Tahoma, sans-serif;
+	font-family: "Montserrat";
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -120,7 +120,7 @@ textarea {
 
 h5 { /* Question font size in info section */
   font-size: 24px;
-  font-family: montserrat;
+  font-family: "Montserrat";
   text-align: left;
   color: #000000;
   margin-bottom: 10px;
@@ -137,7 +137,7 @@ h5 { /* Question font size in info section */
 }
 
 h6 { /* Text size for answer to question in info section */ /* edit h6 for .entry and for info section */
-  font-family: montserrat;
+  font-family: "Montserrat";
   text-align: left;
   color: #000000;
   margin-top: -10px;
@@ -168,7 +168,7 @@ h6 a {
 }
 
 .entry p {
-  font-family: montserrat;
+  font-family: "Montserrat";
   margin-top: -30px;
   margin-bottom: 30px;
   padding-top: 10px;
